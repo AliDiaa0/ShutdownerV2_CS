@@ -1,0 +1,6 @@
+D:\C#Projects\ShutdownerV2_CS\bin\Debug\ShutdownerV2.exe
+D:\C#Projects\ShutdownerV2_CS\bin\Debug\ShutdownerV2.pdb
+D:\C#Projects\ShutdownerV2_CS\obj\Debug\ShutdownerV2_CS.csproj.AssemblyReference.cache
+D:\C#Projects\ShutdownerV2_CS\obj\Debug\ShutdownerV2_CS.csproj.CoreCompileInputs.cache
+D:\C#Projects\ShutdownerV2_CS\obj\Debug\ShutdownerV2.exe
+D:\C#Projects\ShutdownerV2_CS\obj\Debug\ShutdownerV2.pdb
